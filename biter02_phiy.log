@@ -1,0 +1,96 @@
+%MSG-w GeometryGlobalTrackingGeometryBuilder:   CSCOverlapsTrackPreparation:CSCOverlapsTrackPreparation  05-Dec-2008 00:50:15 CET  Run: 6660008 Event: 7
+No TrackerDigiGeometryRecord is available.
+%MSG
+%MSG-w GeometryGlobalTrackingGeometryBuilder:   CSCOverlapsTrackPreparation:CSCOverlapsTrackPreparation  05-Dec-2008 00:50:15 CET  Run: 6660008 Event: 7
+No RPC geometry is available.
+%MSG
+********** roty results for ME-2/1 ***********************************************************
+(residuals, parameters, and closure are phi_y rotations in radians, multiply by 1000 for mrad)
+
+1-18 residuals: -0.000408527 RMS/sqrt(584): 0.000324667 old chi2i: 1.66894e-07 new chi2i: 1.37212e-07
+delta parameter 1: 0.000172377
+2-1 residuals: -0.000440797 RMS/sqrt(337): 0.000414854 old chi2i: 1.94302e-07 new chi2i: 1.37212e-07
+delta parameter 2: 0.000102002
+3-2 residuals: -0.000405431 RMS/sqrt(254): 0.000529209 old chi2i: 1.64375e-07 new chi2i: 1.37212e-07
+delta parameter 3: 6.69925e-05
+4-3 residuals: -0.000438173 RMS/sqrt(202): 0.000515048 old chi2i: 1.91996e-07 new chi2i: 1.37212e-07
+delta parameter 4: -7.58619e-07
+5-4 residuals: -0.000407478 RMS/sqrt(236): 0.00052599 old chi2i: 1.66038e-07 new chi2i: 1.37212e-07
+delta parameter 5: -3.78146e-05
+6-5 residuals: -0.000373418 RMS/sqrt(316): 0.000478117 old chi2i: 1.39441e-07 new chi2i: 1.37212e-07
+delta parameter 6: -4.08103e-05
+7-6 residuals: -0.000441526 RMS/sqrt(334): 0.000454173 old chi2i: 1.94945e-07 new chi2i: 1.37212e-07
+delta parameter 7: -0.000111914
+8-7 residuals: -0.000177497 RMS/sqrt(393): 0.000437362 old chi2i: 3.15051e-08 new chi2i: 1.37212e-07
+delta parameter 8: 8.10109e-05
+9-8 residuals: -0.000605973 RMS/sqrt(492): 0.000389389 old chi2i: 3.67204e-07 new chi2i: 1.37212e-07
+delta parameter 9: -0.00015454
+10-9 residuals: -0.000105243 RMS/sqrt(933): 0.000271303 old chi2i: 1.10761e-08 new chi2i: 1.37212e-07
+delta parameter 10: 0.000110638
+11-10 residuals: -0.000466172 RMS/sqrt(775): 0.000288094 old chi2i: 2.17316e-07 new chi2i: 1.37212e-07
+delta parameter 11: 1.48886e-05
+12-11 residuals: -0.000423457 RMS/sqrt(364): 0.000429101 old chi2i: 1.79316e-07 new chi2i: 1.37212e-07
+delta parameter 12: -3.81464e-05
+13-12 residuals: -0.000369831 RMS/sqrt(183): 0.000567582 old chi2i: 1.36775e-07 new chi2i: 1.37212e-07
+delta parameter 13: -3.75558e-05
+14-13 residuals: -0.000470161 RMS/sqrt(118): 0.000733803 old chi2i: 2.21052e-07 new chi2i: 1.37212e-07
+delta parameter 14: -0.000137295
+15-14 residuals: -0.0005077 RMS/sqrt(140): 0.000714107 old chi2i: 2.57759e-07 new chi2i: 1.37212e-07
+delta parameter 15: -0.000274573
+16-15 residuals: -0.000312552 RMS/sqrt(106): 0.000725826 old chi2i: 9.76884e-08 new chi2i: 1.37212e-07
+delta parameter 16: -0.000216703
+17-16 residuals: 0.000138002 RMS/sqrt(145): 0.000710329 old chi2i: 1.90446e-08 new chi2i: 1.37212e-07
+delta parameter 17: 0.000291721
+18-17 residuals: -0.000451661 RMS/sqrt(262): 0.000459316 old chi2i: 2.03997e-07 new chi2i: 1.37212e-07
+delta parameter 18: 0.000210482
+
+Mean of corrections: 5.18677e-21
+Total closure: -0.00666759 ErrFromRMS: 0.00219794 closure per chamber: -0.000370422
+Old chi2: 2.96072e-06 New chi2: 2.46982e-06
+
+********** roty results for ME-3/1 ***********************************************************
+(residuals, parameters, and closure are phi_y rotations in radians, multiply by 1000 for mrad)
+
+1-18 residuals: 0.000152168 RMS/sqrt(312): 0.00044231 old chi2i: 2.31552e-08 new chi2i: 2.82799e-08
+delta parameter 1: -0.000221664
+2-1 residuals: 0.000172873 RMS/sqrt(246): 0.000560256 old chi2i: 2.98852e-08 new chi2i: 2.82799e-08
+delta parameter 2: -0.000216957
+3-2 residuals: 0.000428415 RMS/sqrt(150): 0.000714708 old chi2i: 1.83539e-07 new chi2i: 2.82799e-08
+delta parameter 3: 4.32914e-05
+4-3 residuals: -7.93563e-06 RMS/sqrt(155): 0.000668363 old chi2i: 6.29743e-11 new chi2i: 2.82799e-08
+delta parameter 4: -0.000132811
+5-4 residuals: 0.000474928 RMS/sqrt(163): 0.000655972 old chi2i: 2.25557e-07 new chi2i: 2.82799e-08
+delta parameter 5: 0.000173952
+6-5 residuals: -2.47039e-05 RMS/sqrt(238): 0.000546661 old chi2i: 6.10285e-10 new chi2i: 2.82799e-08
+delta parameter 6: -1.89187e-05
+7-6 residuals: 0.000337256 RMS/sqrt(203): 0.00062197 old chi2i: 1.13741e-07 new chi2i: 2.82799e-08
+delta parameter 7: 0.000150171
+8-7 residuals: -9.24127e-05 RMS/sqrt(237): 0.000592061 old chi2i: 8.54011e-09 new chi2i: 2.82799e-08
+delta parameter 8: -0.000110408
+9-8 residuals: 0.000399889 RMS/sqrt(341): 0.000471211 old chi2i: 1.59911e-07 new chi2i: 2.82799e-08
+delta parameter 9: 0.000121314
+10-9 residuals: -0.000135954 RMS/sqrt(600): 0.00034979 old chi2i: 1.84834e-08 new chi2i: 2.82799e-08
+delta parameter 10: -0.000182806
+11-10 residuals: 0.000126819 RMS/sqrt(603): 0.000342206 old chi2i: 1.60831e-08 new chi2i: 2.82799e-08
+delta parameter 11: -0.000224153
+12-11 residuals: 0.00017329 RMS/sqrt(229): 0.000543578 old chi2i: 3.00295e-08 new chi2i: 2.82799e-08
+delta parameter 12: -0.000219029
+13-12 residuals: 0.00017828 RMS/sqrt(102): 0.000955216 old chi2i: 3.17837e-08 new chi2i: 2.82799e-08
+delta parameter 13: -0.000208916
+14-13 residuals: 0.000827821 RMS/sqrt(99): 0.000858712 old chi2i: 6.85287e-07 new chi2i: 2.82799e-08
+delta parameter 14: 0.000450739
+15-14 residuals: -4.74683e-05 RMS/sqrt(107): 0.000800623 old chi2i: 2.25324e-09 new chi2i: 2.82799e-08
+delta parameter 15: 0.000235104
+16-15 residuals: 0.000215888 RMS/sqrt(69): 0.000951015 old chi2i: 4.66075e-08 new chi2i: 2.82799e-08
+delta parameter 16: 0.000282825
+17-16 residuals: 0.000169274 RMS/sqrt(95): 0.000920167 old chi2i: 2.86537e-08 new chi2i: 2.82799e-08
+delta parameter 17: 0.000283933
+18-17 residuals: -0.000321433 RMS/sqrt(215): 0.000641707 old chi2i: 1.03319e-07 new chi2i: 2.82799e-08
+delta parameter 18: -0.000205666
+
+Mean of corrections: 6.69261e-22
+Total closure: 0.00302699 ErrFromRMS: 0.00285382 closure per chamber: 0.000168166
+Old chi2: 1.7075e-06 New chi2: 5.09039e-07
+
+
+Main Thread CPU elapsed time 1089

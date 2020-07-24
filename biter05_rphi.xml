@@ -1,0 +1,148 @@
+  <CSCChamber endcap="2" station="2" ring="1" chamber="1" /> <setposition relativeto="ideal" x="-0.04788528" y="-0.00006873" z="-0.00012207" phix="-0.00000685" phiy="0.00084570" phiz="0.00030149" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="2" /> <setposition relativeto="ideal" x="-0.03452486" y="0.00012164" z="0.00006104" phix="0.00003438" phiy="0.00059703" phiz="0.00043825" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="3" /> <setposition relativeto="ideal" x="-0.02543107" y="0.00011869" z="0.00000000" phix="0.00000000" phiy="0.00000000" phiz="-0.00006385" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="4" /> <setposition relativeto="ideal" x="-0.01610369" y="-0.00000032" z="0.00000000" phix="0.00018550" phiy="0.00029120" phiz="-0.00006728" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="5" /> <setposition relativeto="ideal" x="-0.03239747" y="-0.00015392" z="0.00006104" phix="0.00000904" phiy="0.00048820" phiz="-0.00002042" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="6" /> <setposition relativeto="ideal" x="-0.01226986" y="0.00000191" z="-0.00012207" phix="0.00002886" phiy="0.00059732" phiz="-0.00010470" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="7" /> <setposition relativeto="ideal" x="-0.03317253" y="0.00011087" z="-0.00012207" phix="-0.00000465" phiy="0.00097655" phiz="-0.00012672" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="8" /> <setposition relativeto="ideal" x="-0.00129505" y="-0.00001268" z="0.00006104" phix="0.00001248" phiy="0.00077194" phiz="-0.00030311" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="9" /> <setposition relativeto="ideal" x="-0.02073410" y="-0.00004251" z="-0.00006104" phix="-0.00002242" phiy="0.00103556" phiz="-0.00019045" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="10" /> <setposition relativeto="ideal" x="0.01225006" y="-0.00010677" z="-0.00012207" phix="0.00000229" phiy="0.00119604" phiz="-0.00033053" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="11" /> <setposition relativeto="ideal" x="-0.02348788" y="-0.00007514" z="0.00012207" phix="0.00000307" phiy="0.00185932" phiz="-0.00057486" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="12" /> <setposition relativeto="ideal" x="0.01700440" y="-0.00004316" z="-0.00006104" phix="-0.00000036" phiy="0.00103580" phiz="-0.00073546" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="13" /> <setposition relativeto="ideal" x="-0.03166764" y="0.00001533" z="0.00000000" phix="0.00001217" phiy="0.00091341" phiz="-0.00065692" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="14" /> <setposition relativeto="ideal" x="-0.04283275" y="0.00000530" z="-0.00000000" phix="0.00000189" phiy="-0.00084573" phiz="-0.00034622" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="15" /> <setposition relativeto="ideal" x="-0.01331847" y="-0.00028581" z="-0.00018311" phix="-0.00004448" phiy="-0.00124408" phiz="-0.00025137" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="16" /> <setposition relativeto="ideal" x="-0.01902699" y="0.00004140" z="0.00000000" phix="0.00000000" phiy="0.00000000" phiz="-0.00020283" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="17" /> <setposition relativeto="ideal" x="-0.01689816" y="-0.00002235" z="0.00012207" phix="0.00000003" phiy="-0.00119604" phiz="0.00008944" />
+  <CSCChamber endcap="2" station="2" ring="1" chamber="18" /> <setposition relativeto="ideal" x="-0.03468897" y="0.00000959" z="0.00000000" phix="0.00003482" phiy="0.00034351" phiz="0.00019474" />
+
+  <CSCChamber endcap="2" station="3" ring="1" chamber="1" /> <setposition relativeto="ideal" x="-0.02386227" y="-0.00001987" z="0.00006104" phix="-0.00000126" phiy="0.00059802" phiz="-0.00009990" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="2" /> <setposition relativeto="ideal" x="0.01443750" y="-0.00001901" z="-0.00000000" phix="0.00004709" phiy="0.00077060" phiz="-0.00021969" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="3" /> <setposition relativeto="ideal" x="0.01015301" y="0.00001079" z="0.00006104" phix="0.00015510" phiy="0.00075630" phiz="-0.00033245" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="4" /> <setposition relativeto="ideal" x="0.02559886" y="0.00001677" z="-0.00000000" phix="0.00000000" phiy="0.00000000" phiz="-0.00034647" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="5" /> <setposition relativeto="ideal" x="0.02589251" y="-0.00027408" z="0.00006104" phix="0.00023331" phiy="-0.00025451" phiz="-0.00039354" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="6" /> <setposition relativeto="ideal" x="0.03835614" y="-0.00018016" z="-0.00000000" phix="-0.00000000" phiy="-0.00000000" phiz="-0.00051949" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="7" /> <setposition relativeto="ideal" x="0.04693434" y="-0.00006972" z="-0.00000000" phix="-0.00030628" phiy="0.00015938" phiz="-0.00032088" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="8" /> <setposition relativeto="ideal" x="0.01768695" y="0.00004004" z="-0.00000000" phix="-0.00005673" phiy="-0.00076995" phiz="-0.00009734" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="9" /> <setposition relativeto="ideal" x="0.03009165" y="-0.00000653" z="0.00000000" phix="0.00021016" phiy="-0.00027393" phiz="0.00013065" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="10" /> <setposition relativeto="ideal" x="0.01135588" y="-0.00000210" z="0.00000000" phix="-0.00001434" phiy="-0.00077191" phiz="0.00004925" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="11" /> <setposition relativeto="ideal" x="0.03493321" y="0.00007635" z="0.00006104" phix="-0.00000941" phiy="-0.00069047" phiz="-0.00005756" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="12" /> <setposition relativeto="ideal" x="0.01390779" y="-0.00014026" z="-0.00018311" phix="-0.00004667" phiy="-0.00084444" phiz="-0.00021204" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="13" /> <setposition relativeto="ideal" x="0.01788509" y="0.00001080" z="0.00000000" phix="0.00000745" phiy="0.00114510" phiz="-0.00045606" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="14" /> <setposition relativeto="ideal" x="0.04238300" y="0.00002933" z="0.00018311" phix="0.00000402" phiy="0.00198340" phiz="-0.00007824" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="15" /> <setposition relativeto="ideal" x="-0.00210586" y="-0.00001137" z="-0.00018311" phix="-0.00001430" phiy="0.00284711" phiz="-0.00034574" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="16" /> <setposition relativeto="ideal" x="0.00609523" y="0.00002085" z="-0.00006104" phix="-0.00000931" phiy="0.00165582" phiz="-0.00041890" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="17" /> <setposition relativeto="ideal" x="-0.07716176" y="-0.00000925" z="0.00024414" phix="-0.00000405" phiy="0.00343536" phiz="-0.00000537" />
+  <CSCChamber endcap="2" station="3" ring="1" chamber="18" /> <setposition relativeto="ideal" x="-0.00646737" y="-0.00028910" z="0.00024414" phix="-0.00000382" phiy="0.00165584" phiz="-0.00012351" />
+
+-0.0269697
+-0.0136093
+-0.0045155
+0.00481188
+-0.0114819
+0.00864571
+-0.012257
+0.0196205
+0.000181473
+0.0331656
+-0.00257231
+0.03792
+-0.0107521
+-0.0219172
+0.0075971
+0.00188858
+0.00401741
+-0.0137734
+-0.0364242
+0.00187562
+-0.00240887
+0.013037
+0.0133306
+0.0257943
+0.0343725
+0.00512507
+0.0175298
+-0.001206
+0.0223713
+0.00134591
+0.00532321
+0.0298211
+-0.0146677
+-0.00646665
+-0.0897236
+-0.0190293
+
+0.000419826
+0.000171156
+-0.000425874
+-0.000134674
+6.2326e-05
+0.000171446
+0.000550676
+0.000346066
+0.000609686
+0.000770166
+0.00143345
+0.000609926
+0.000487536
+-0.0012716
+-0.00166995
+-0.000425874
+-0.00162191
+-8.2364e-05
+-3.5408e-05
+0.000137172
+0.000122872
+-0.000633428
+-0.000887938
+-0.000633428
+-0.000474048
+-0.00140338
+-0.000907358
+-0.00140534
+-0.0013239
+-0.00147787
+0.000511672
+0.00134997
+0.00221368
+0.00102239
+0.00280193
+0.00102241
+
+0.00046542
+0.00060218
+0.00010008
+9.665e-05
+0.00014351
+5.923e-05
+3.721e-05
+-0.00013918
+-2.652e-05
+-0.0001666
+-0.00041093
+-0.00057153
+-0.00049299
+-0.00018229
+-8.744e-05
+-3.89e-05
+0.00025337
+0.00035867
+0.00011384
+-5.95e-06
+-0.00011871
+-0.00013273
+-0.0001798
+-0.00030575
+-0.00010714
+0.0001164
+0.00034439
+0.00026299
+0.00015618
+1.7e-06
+-0.00024232
+0.0001355
+-0.000132
+-0.00020516
+0.00020837
+9.023e-05

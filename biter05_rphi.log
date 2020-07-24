@@ -1,0 +1,114 @@
+%MSG-w GeometryGlobalTrackingGeometryBuilder:   CSCOverlapsTrackPreparation:CSCOverlapsTrackPreparation  05-Dec-2008 02:33:26 CET  Run: 6660008 Event: 7
+No TrackerDigiGeometryRecord is available.
+%MSG
+%MSG-w GeometryGlobalTrackingGeometryBuilder:   CSCOverlapsTrackPreparation:CSCOverlapsTrackPreparation  05-Dec-2008 02:33:26 CET  Run: 6660008 Event: 7
+No RPC geometry is available.
+%MSG
+%MSG-w RFIOFileRetry:  main_input:source 05-Dec-2008 02:39:25 CET  Run: 6662085 Event: 4896
+RFIOFile retrying read
+  return value from rfio_read64 = -1 (normally this is bytes read, -1 for error)
+  bytes requested = 1169023  (this and bytes read are equal unless error or EOF)
+  rfio error message = Timed out (explanation from server, if possible)
+  serrno = 1004 (rfio server error code, 0 = OK, 1004 = timeout, ...)
+  rfio_errno = 0 (rfio error from actually accessing the file)
+  current position = 196158885 (in bytes, beginning of file is 0)
+  retries left before quitting = 3
+  will close and reopen file rfio:///?path=/castor/cern.ch/cms/store/cmscaf/alca/alignment/iCSA08/BeamHalo/ALCARECO/Filter_CSA08_MuonBeamHalo_01.root
+  will sleep for 1 minute before attempting retry
+%MSG
+%MSG-w RFIOFileWarning:  main_input:source 05-Dec-2008 02:45:25 CET  Run: 6662085 Event: 4896
+rfio_close64(name='rfio:///?path=/castor/cern.ch/cms/store/cmscaf/alca/alignment/iCSA08/BeamHalo/ALCARECO/Filter_CSA08_MuonBeamHalo_01.root') failed with error 'Timed out' (rfio_errno=0, serrno=1004)
+%MSG
+%MSG-w RFIOFileWarning:  main_input:source 05-Dec-2008 02:45:25 CET  Run: 6662085 Event: 4896
+RFIOFile::close(): system level close after a failed rfio_close64 also failed with error 'Bad file descriptor' (error code 9)
+%MSG
+********** phipos results for ME-2/1 ***********************************************************
+(residuals, parameters, and closure are phi positions in radians, multiply by 1000 for mrad or 2427 for rphi displacement in mm)
+
+1-18 residuals: -9.00471e-06 RMS/sqrt(584): 1.82412e-05 old chi2i: 8.10847e-11 new chi2i: 5.63699e-11
+delta parameter 1: -2.02296e-05
+2-1 residuals: -1.81586e-05 RMS/sqrt(336): 2.67686e-05 old chi2i: 3.29733e-10 new chi2i: 5.63699e-11
+delta parameter 2: -3.08801e-05
+3-2 residuals: 1.72351e-06 RMS/sqrt(254): 3.33918e-05 old chi2i: 2.97049e-12 new chi2i: 5.63699e-11
+delta parameter 3: -2.16486e-05
+4-3 residuals: 7.81785e-07 RMS/sqrt(202): 3.24282e-05 old chi2i: 6.11187e-13 new chi2i: 5.63699e-11
+delta parameter 4: -1.33589e-05
+5-4 residuals: 3.69964e-05 RMS/sqrt(236): 2.97031e-05 old chi2i: 1.36873e-09 new chi2i: 5.63699e-11
+delta parameter 5: 3.11455e-05
+6-5 residuals: -4.73006e-05 RMS/sqrt(316): 2.43986e-05 old chi2i: 2.23735e-09 new chi2i: 5.63699e-11
+delta parameter 6: -8.64714e-06
+7-6 residuals: 1.38652e-05 RMS/sqrt(334): 2.40356e-05 old chi2i: 1.92244e-10 new chi2i: 5.63699e-11
+delta parameter 7: 1.27261e-05
+8-7 residuals: -1.44707e-05 RMS/sqrt(393): 2.5361e-05 old chi2i: 2.09402e-10 new chi2i: 5.63699e-11
+delta parameter 8: 5.76333e-06
+9-8 residuals: -3.32853e-05 RMS/sqrt(492): 2.39667e-05 old chi2i: 1.10791e-09 new chi2i: 5.63699e-11
+delta parameter 9: -2.0014e-05
+10-9 residuals: -2.63138e-05 RMS/sqrt(933): 1.67974e-05 old chi2i: 6.92418e-10 new chi2i: 5.63699e-11
+delta parameter 10: -3.88198e-05
+11-10 residuals: 7.47873e-05 RMS/sqrt(775): 1.85007e-05 old chi2i: 5.59314e-09 new chi2i: 5.63699e-11
+delta parameter 11: 4.34755e-05
+12-11 residuals: -8.25264e-05 RMS/sqrt(364): 2.64168e-05 old chi2i: 6.81061e-09 new chi2i: 5.63699e-11
+delta parameter 12: -3.15429e-05
+13-12 residuals: 5.02247e-05 RMS/sqrt(183): 3.35645e-05 old chi2i: 2.52253e-09 new chi2i: 5.63699e-11
+delta parameter 13: 2.61898e-05
+14-13 residuals: -2.73453e-05 RMS/sqrt(118): 4.06043e-05 old chi2i: 7.47767e-10 new chi2i: 5.63699e-11
+delta parameter 14: 6.35245e-06
+15-14 residuals: 6.57724e-05 RMS/sqrt(139): 4.63532e-05 old chi2i: 4.32601e-09 new chi2i: 5.63699e-11
+delta parameter 15: 7.96329e-05
+16-15 residuals: -8.1158e-05 RMS/sqrt(106): 5.09123e-05 old chi2i: 6.58662e-09 new chi2i: 5.63699e-11
+delta parameter 16: 5.98283e-06
+17-16 residuals: -2.08852e-05 RMS/sqrt(145): 3.95594e-05 old chi2i: 4.3619e-10 new chi2i: 5.63699e-11
+delta parameter 17: -7.39435e-06
+18-17 residuals: -1.88465e-05 RMS/sqrt(262): 2.75713e-05 old chi2i: 3.5519e-10 new chi2i: 5.63699e-11
+delta parameter 18: -1.87328e-05
+
+Mean of corrections: -3.03259e-22
+Total closure: -0.000135144 ErrFromRMS: 0.000132861 closure per chamber: -7.50799e-06
+Old chi2: 3.36005e-08 New chi2: 1.01466e-09
+
+********** phipos results for ME-3/1 ***********************************************************
+(residuals, parameters, and closure are phi positions in radians, multiply by 1000 for mrad or 2527 for rphi displacement in mm)
+
+1-18 residuals: 3.68566e-05 RMS/sqrt(312): 2.71474e-05 old chi2i: 1.35841e-09 new chi2i: 4.73917e-09
+delta parameter 1: 4.55502e-06
+2-1 residuals: 1.77701e-05 RMS/sqrt(246): 2.93362e-05 old chi2i: 3.15776e-10 new chi2i: 9.40562e-10
+delta parameter 2: -8.34349e-06
+3-2 residuals: -4.4832e-06 RMS/sqrt(150): 3.79536e-05 old chi2i: 2.00991e-11 new chi2i: 1.91489e-10
+delta parameter 3: 1.01128e-06
+4-3 residuals: 5.66062e-06 RMS/sqrt(155): 3.7789e-05 old chi2i: 3.20426e-11 new chi2i: 4.15982e-11
+delta parameter 4: 2.22231e-07
+5-4 residuals: 2.63273e-05 RMS/sqrt(163): 3.98788e-05 old chi2i: 6.93128e-10 new chi2i: 2.28322e-09
+delta parameter 5: -2.12335e-05
+6-5 residuals: 2.09915e-06 RMS/sqrt(238): 2.90502e-05 old chi2i: 4.40642e-12 new chi2i: 4.53296e-13
+delta parameter 6: -1.84611e-05
+7-6 residuals: 3.39233e-05 RMS/sqrt(202): 3.23662e-05 old chi2i: 1.15079e-09 new chi2i: 3.96585e-09
+delta parameter 7: -4.75128e-05
+8-7 residuals: -6.47616e-05 RMS/sqrt(237): 3.25776e-05 old chi2i: 4.19406e-09 new chi2i: 1.80619e-08
+delta parameter 8: 2.21203e-05
+9-8 residuals: 4.99552e-05 RMS/sqrt(342): 2.63869e-05 old chi2i: 2.49552e-09 new chi2i: 9.03239e-09
+delta parameter 9: -2.29633e-05
+10-9 residuals: -1.47679e-05 RMS/sqrt(600): 1.94886e-05 old chi2i: 2.1809e-10 new chi2i: 1.18386e-09
+delta parameter 10: -3.32392e-06
+11-10 residuals: -2.7533e-06 RMS/sqrt(603): 2.01103e-05 old chi2i: 7.58064e-12 new chi2i: 1.07706e-10
+delta parameter 11: 4.30095e-06
+12-11 residuals: -1.08257e-05 RMS/sqrt(229): 3.42663e-05 old chi2i: 1.17195e-10 new chi2i: 7.03465e-10
+delta parameter 12: 1.99982e-05
+13-12 residuals: 1.54283e-05 RMS/sqrt(102): 4.87047e-05 old chi2i: 2.38032e-10 new chi2i: 6.75221e-10
+delta parameter 13: 9.44147e-06
+14-13 residuals: 1.84153e-05 RMS/sqrt(99): 5.1663e-05 old chi2i: 3.39124e-10 new chi2i: 1.02138e-09
+delta parameter 14: -4.10228e-06
+15-14 residuals: 2.22825e-06 RMS/sqrt(107): 4.51912e-05 old chi2i: 4.96508e-12 new chi2i: 1.72287e-13
+delta parameter 15: -1.45895e-06
+16-15 residuals: -1.30175e-05 RMS/sqrt(69): 5.46092e-05 old chi2i: 1.69454e-10 new chi2i: 9.55212e-10
+delta parameter 16: 1.64301e-05
+17-16 residuals: 8.52177e-06 RMS/sqrt(95): 5.43502e-05 old chi2i: 7.26206e-11 new chi2i: 1.48157e-10
+delta parameter 17: 1.27799e-05
+18-17 residuals: -1.88886e-05 RMS/sqrt(215): 3.58541e-05 old chi2i: 3.56779e-10 new chi2i: 1.81892e-09
+delta parameter 18: 3.654e-05
+
+Mean of corrections: 1.25486e-21
+Total closure: 8.76882e-05 ErrFromRMS: 0.000161149 closure per chamber: 4.87157e-06
+Old chi2: 1.17881e-08 New chi2: 4.58708e-08
+
+
+Main Thread CPU elapsed time 1105
